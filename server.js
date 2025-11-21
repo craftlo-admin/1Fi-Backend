@@ -13,7 +13,7 @@ const corsOptions = {
     'http://127.0.0.1:8000',
     'http://localhost:3000',
     'http://127.0.0.1:3000',
-    'https://onefi-backend-8e9j.onrender.com'
+    'https://1-fi-frontend-green.vercel.app/'
   ],
   credentials: true,
   optionsSuccessStatus: 200
