@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "name": "Samsung 32 inch LED Smart TV (Color)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/137/451/large/open-uri20250926-20169-ybxbua?1758892372"
+    ],
+    "description": "This HD TV features a 1366 x 768 resolution with a 50Hz refresh rate for clear everyday viewing. It offers diverse connectivity including Wi-Fi 5 for smooth streaming, Bluetooth for wireless audio, 2 HDMI ports (one with eARC) for set-top boxes and soundbars, USB-A for media playback, Ethernet for stable internet, Anynet+ (HDMI-CEC) for unified device control, and RF In for cable or antenna input. The 20W sound system includes Object Tracking Sound Lite, Q-Symphony, and Adaptive Sound for immersive audio. Smart features comprise a voice-assisted smart remote, Alexa and Google Assistant compatibility via external speakers, Samsung TV Plus with 100+ free channels, web browser, mobile-to-TV mirroring, AirPlay support, and a universal guide. Picture quality is enhanced by the Hyper Real Picture Engine, HDR10+, PurColor, Contrast Enhancer, and Micro Dimming Pro. It has a 3-star energy rating with 39 kWh annual consumption.",
+    "sku": null,
+    "price": 15049,
+    "stock": 4
+  },
+  {
+    "id": 2,
+    "product_id": 2,
+    "name": "Samsung 43 inch LED Smart TV (Color)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/136/672/large/open-uri20250925-15471-1jwkdnr?1758786279"
+    ],
+    "description": "This Full HD TV offers a resolution of 1920 x 1080 with a 50Hz refresh rate for clear, smooth visuals. Connectivity options include Wi-Fi 5 for streaming, Bluetooth for wireless audio, 2 HDMI ports (one with eARC) for set-top boxes and soundbars, USB-A for media playback, Ethernet for stable internet, Anynet+ (HDMI-CEC) for device control, and RF In for cable or antenna. The 20W sound system features Object Tracking Sound Lite, Q-Symphony, and Adaptive Sound for immersive audio. Smart features include a voice-assisted remote, Alexa and Google Assistant compatibility via external speakers, Samsung TV Plus with 100+ free channels, web browser, mobile mirroring, AirPlay support, and a universal guide. Powered by the Hyper Real Picture Engine, HDR10+, PurColor, Contrast Enhancer, and Micro Dimming Pro enhance picture quality. It has a 5-star energy rating with 45 kWh annual consumption.",
+    "sku": null,
+    "price": 26400,
+    "stock": 3
+  },
+  {
+    "id": 3,
+    "product_id": 3,
+    "name": "Croma - A Tata Product 32 inch LED Smart TV (Color)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/117/275/large/open-uri20251118-844697-1ja4rk8?1763465682"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 8290,
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "product_id": 4,
+    "name": "Croma - A Tata Product 43 inch LED Smart TV (Color)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/000/920/242/large/open-uri20251118-844697-xpggxc?1763465737"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 14990,
+    "stock": 3
+  },
+  {
+    "id": 5,
+    "product_id": 5,
+    "name": "Sony 43 inch LED Smart TV (Color)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/097/875/large/open-uri20250627-31760-1dlpc5l?1751013727"
+    ],
+    "description": "The Sony BRAVIA 2 II 4K Ultra HD LED TV delivers stunning visuals with a 3840 x 2160 resolution and 60Hz refresh rate. It features 4 HDMI and 2 USB ports for connecting set-top boxes, Blu-ray players, or gaming consoles. With 20W sound output and support for DTS Digital Surround, DTS:X, Dolby Atmos, and Dolby Audio, it ensures immersive audio through dual full-range open baffle speakers. The smart TV runs on Google TV and includes features like Chromecast built-in, Google Assistant, Apple AirPlay 2, HomeKit, Alexa, Game Menu, and HDMI 2.1 compatibility (ALLM/eARC). Powered by the 4K Processor X1, it offers vivid visuals with Live Color, 4K X-Reality PRO, MotionFlow XR 200, and HDR10/HLG. A 1-year comprehensive warranty is included.",
+    "sku": null,
+    "price": 40999,
+    "stock": 2
+  },
+  {
+    "id": 6,
+    "product_id": 6,
+    "name": "Sony 65 inch LED Smart TV (Color)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/109/698/large/open-uri20250724-3908-1yu7ata?1753351191"
+    ],
+    "description": "Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 60 hertz | BRAVIA 3 LED\nConnectivity: 4 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices\nSound : 20 Watts Output | 2ch | Bass Reflex Speaker | Dolby Atmos | Ambient Optimization |2 Full Range (Bass Reflex)\nSmart TV Features: Google TV | Watchlist | Google Assistant | Chromecast Built In | Built In Mic |Game menu | ALLM/eARC (HDMI 2.1 Compatible) | Additional Features: Apple Airplay | Apple Homekit | Alexa\nDisplay : 4K LED | 4K HDR Processor X1 | Triluminos PRO | 4K X-Reality PRO | MotionFlow XR 200 | HDR10/HLG, Dolby Vision\nWarranty Information: 1 year comprehensive warranty on product provided by the brand from the date of purchase",
+    "sku": null,
+    "price": 97999,
+    "stock": 1
+  },
+  {
+    "id": 7,
+    "product_id": 7,
+    "name": "Apple iPhone 17 Pro (Silver, 256 GB)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/154/806/large/open-uri20251021-2855301-v0364x?1761017558"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 134900,
+    "stock": 8
+  },
+  {
+    "id": 8,
+    "product_id": 7,
+    "name": "Apple iPhone 17 Pro (Deep Blue, 256 GB)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/154/792/large/open-uri20251021-2855301-1lwknri?1761017541"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 134900,
+    "stock": 8
+  },
+  {
+    "id": 9,
+    "product_id": 7,
+    "name": "Apple iPhone 17 Pro (Cosmic Orange, 256 GB)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/154/799/large/open-uri20251021-2855301-1u2r5zo?1761017549"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 134900,
+    "stock": 8
+  },
+  {
+    "id": 10,
+    "product_id": 8,
+    "name": "Apple iPhone 16 (Ultramarine, 128 GB)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/003/996/large/open-uri20240912-19822-qktugk?1726124907"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 69999,
+    "stock": 12
+  },
+  {
+    "id": 11,
+    "product_id": 8,
+    "name": "Apple iPhone 16 (Black, 128 GB)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/003/987/large/open-uri20240912-19822-127ux40?1726124895"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 69999,
+    "stock": 12
+  },
+  {
+    "id": 12,
+    "product_id": 8,
+    "name": "Apple iPhone 16 (Pink, 128 GB)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/004/005/large/open-uri20240912-19822-1uriyc0?1726124916"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 69999,
+    "stock": 12
+  },
+  {
+    "id": 13,
+    "product_id": 8,
+    "name": "Apple iPhone 16 (Teal, 128 GB)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/004/014/large/open-uri20240912-19822-4e18t?1726124925"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 69999,
+    "stock": 12
+  },
+  {
+    "id": 14,
+    "product_id": 8,
+    "name": "Apple iPhone 16 (White, 128 GB)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/004/023/large/open-uri20240912-19822-bvtm00?1726124934"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 69999,
+    "stock": 12
+  },
+  {
+    "id": 15,
+    "product_id": 9,
+    "name": "Vivo T4 Lite 5G (Titanium Gold, 128 GB) (4 GB RAM)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/096/444/large/open-uri20250624-3928-1mg32bk?1750761921"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 10999,
+    "stock": 4
+  },
+  {
+    "id": 16,
+    "product_id": 9,
+    "name": "Vivo T4 Lite 5G (Prism Blue, 128 GB) (4 GB RAM)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/096/459/large/open-uri20250624-3928-1vtzulg?1750761956"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 10999,
+    "stock": 4
+  },
+  {
+    "id": 17,
+    "product_id": 10,
+    "name": "Realme 15x 5G (Aqua Blue, 128 GB) (6 GB RAM)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/148/005/large/open-uri20251005-24671-1xhvg5i?1759653806"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 17499,
+    "stock": 6
+  },
+  {
+    "id": 18,
+    "product_id": 10,
+    "name": "Realme 15x 5G (Maroon Red, 128 GB) (6 GB RAM)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/147/999/large/open-uri20251005-24671-pf47g5?1759653789"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 17499,
+    "stock": 6
+  },
+  {
+    "id": 19,
+    "product_id": 10,
+    "name": "Realme 15x 5G (Marine Blue, 128 GB) (6 GB RAM)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/147/988/large/open-uri20251005-24671-je4ylx?1759653772"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 17499,
+    "stock": 6
+  },
+  {
+    "id": 20,
+    "product_id": 11,
+    "name": "Apple MacBook Air Apple M4 - (16 GB/256 GB SSD/macOS Sequoia) MW123HN/A(13.6 inch, Midnight, 1.24 kg)",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/122/828/large/open-uri20250814-10882-122e24h?1755159286"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 89999,
+    "stock": 3
+  },
+  {
+    "id": 21,
+    "product_id": 12,
+    "name": "Dell Inspiron 15-3530 Laptop - 15.6 inch FHD, 13th Gen Intel Core i3-1305U, 8GB RAM, 512GB SSD, Win 11 + Office H&S 2021, Standard Keyboard, Platinum Silver, 1 Year Onsite Hardware Service, 1.62 Kg",
+    "images_list": [
+      "https://images.snapmint.com/product_assets/images/001/120/316/large/open-uri20250813-31957-mxcrbb?1755080878"
+    ],
+    "description": null,
+    "sku": null,
+    "price": 49006,
+    "stock": 2
+  }
+]

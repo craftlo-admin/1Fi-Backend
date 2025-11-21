@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "product_variant_id": 20,
+    "product_id": 11,
+    "ram": "16 GB",
+    "ram_type": null,
+    "storage": "256 GB SSD",
+    "screen_size": "13.6 inch",
+    "screen_resolution": null,
+    "operating_system": "macOS Sequoia",
+    "weight": "1.24 kg",
+    "processor": "Apple M4",
+    "graphics_type": null,
+    "color": "Midnight",
+    "product_dimension": null,
+    "package": null,
+    "warranty_period": null,
+    "country_of_origin": null
+  },
+  {
+    "id": 2,
+    "product_variant_id": 21,
+    "product_id": 12,
+    "ram": "8 GB",
+    "ram_type": null,
+    "storage": "512 GB SSD",
+    "screen_size": "15.6 inch",
+    "screen_resolution": "FHD",
+    "operating_system": "Windows 11",
+    "weight": "1.62 kg",
+    "processor": "13th Gen Intel Core i3-1305U",
+    "graphics_type": null,
+    "color": "Platinum Silver",
+    "product_dimension": null,
+    "package": null,
+    "warranty_period": "1 Year Onsite Hardware Service",
+    "country_of_origin": null
+  }
+]

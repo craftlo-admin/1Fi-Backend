@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "brand_id": 1,
+    "category_id": 1,
+    "product_name": "Samsung 32 inch LED Smart TV (Color)"
+  },
+  {
+    "id": 2,
+    "brand_id": 1,
+    "category_id": 1,
+    "product_name": "Samsung 43 inch LED Smart TV (Color)"
+  },
+  {
+    "id": 3,
+    "brand_id": 2,
+    "category_id": 1,
+    "product_name": "Croma - A Tata Product 32 inch LED Smart TV (Color)"
+  },
+  {
+    "id": 4,
+    "brand_id": 2,
+    "category_id": 1,
+    "product_name": "Croma - A Tata Product 43 inch LED Smart TV (Color)"
+  },
+  {
+    "id": 5,
+    "brand_id": 3,
+    "category_id": 1,
+    "product_name": "Sony 43 inch LED Smart TV (Color)"
+  },
+  {
+    "id": 6,
+    "brand_id": 3,
+    "category_id": 1,
+    "product_name": "Sony 65 inch LED Smart TV (Color)"
+  },
+  {
+    "id": 7,
+    "brand_id": 4,
+    "category_id": 2,
+    "product_name": "Apple iPhone 17 Pro (Silver, 256 GB)"
+  },
+  {
+    "id": 8,
+    "brand_id": 4,
+    "category_id": 2,
+    "product_name": "Apple iPhone 16 (Black, 128 Gb)"
+  },
+  {
+    "id": 9,
+    "brand_id": 5,
+    "category_id": 2,
+    "product_name": "Vivo T4 Lite 5G Charger in the Box (Titanium Gold, 128 GB) (4 GB RAM)"
+  },
+  {
+    "id": 10,
+    "brand_id": 6,
+    "category_id": 2,
+    "product_name": "Realme 15x 5G (Aqua Blue, 128 GB) (6 GB RAM)"
+  },
+  {
+    "id": 11,
+    "brand_id": 7,
+    "category_id": 3,
+    "product_name": "Apple MacBook Air Apple M4 - (16 GB/256 GB SSD/macOS Sequoia) MW123HN/A(13.6 inch, Midnight, 1.24 kg)"
+  },
+  {
+    "id": 12,
+    "brand_id": 8,
+    "category_id": 3,
+    "product_name": "Dell Inspiron 15-3530 Laptop - 15.6 inch FHD, 13th Gen Intel Core i3-1305U, 8GB RAM, 512GB SSD, Win 11 + Office H&S 2021, Standard Keyboard, Platinum Silver, 1 Year Onsite Hardware Service, 1.62 Kg"
+  }
+]

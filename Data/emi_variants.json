@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "emi_id": 1,
+    "monthly_payment": 5016,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 451.47,
+    "created_at": "2025-11-21T13:43:58.128Z",
+    "updated_at": "2025-11-21T13:43:58.128Z"
+  },
+  {
+    "id": 2,
+    "emi_id": 1,
+    "monthly_payment": 2508,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 451.47,
+    "created_at": "2025-11-21T13:43:58.206Z",
+    "updated_at": "2025-11-21T13:43:58.206Z"
+  },
+  {
+    "id": 3,
+    "emi_id": 1,
+    "monthly_payment": 1672,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 451.47,
+    "created_at": "2025-11-21T13:43:58.288Z",
+    "updated_at": "2025-11-21T13:43:58.288Z"
+  },
+  {
+    "id": 4,
+    "emi_id": 1,
+    "monthly_payment": 1254,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 451.47,
+    "created_at": "2025-11-21T13:43:58.372Z",
+    "updated_at": "2025-11-21T13:43:58.372Z"
+  },
+  {
+    "id": 5,
+    "emi_id": 1,
+    "monthly_payment": 907,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 451.47,
+    "created_at": "2025-11-21T13:43:58.459Z",
+    "updated_at": "2025-11-21T13:43:58.459Z"
+  },
+  {
+    "id": 6,
+    "emi_id": 1,
+    "monthly_payment": 698,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 451.47,
+    "created_at": "2025-11-21T13:43:58.565Z",
+    "updated_at": "2025-11-21T13:43:58.565Z"
+  },
+  {
+    "id": 7,
+    "emi_id": 2,
+    "monthly_payment": 8800,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 792,
+    "created_at": "2025-11-21T13:43:58.804Z",
+    "updated_at": "2025-11-21T13:43:58.804Z"
+  },
+  {
+    "id": 8,
+    "emi_id": 2,
+    "monthly_payment": 4400,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 792,
+    "created_at": "2025-11-21T13:43:58.887Z",
+    "updated_at": "2025-11-21T13:43:58.887Z"
+  },
+  {
+    "id": 9,
+    "emi_id": 2,
+    "monthly_payment": 2933,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 792,
+    "created_at": "2025-11-21T13:43:59.006Z",
+    "updated_at": "2025-11-21T13:43:59.006Z"
+  },
+  {
+    "id": 10,
+    "emi_id": 2,
+    "monthly_payment": 2200,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 792,
+    "created_at": "2025-11-21T13:43:59.086Z",
+    "updated_at": "2025-11-21T13:43:59.086Z"
+  },
+  {
+    "id": 11,
+    "emi_id": 2,
+    "monthly_payment": 1592,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 792,
+    "created_at": "2025-11-21T13:43:59.228Z",
+    "updated_at": "2025-11-21T13:43:59.228Z"
+  },
+  {
+    "id": 12,
+    "emi_id": 2,
+    "monthly_payment": 1224,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 792,
+    "created_at": "2025-11-21T13:43:59.318Z",
+    "updated_at": "2025-11-21T13:43:59.318Z"
+  },
+  {
+    "id": 13,
+    "emi_id": 3,
+    "monthly_payment": 2763,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 248.7,
+    "created_at": "2025-11-21T13:43:59.571Z",
+    "updated_at": "2025-11-21T13:43:59.571Z"
+  },
+  {
+    "id": 14,
+    "emi_id": 3,
+    "monthly_payment": 1382,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 248.7,
+    "created_at": "2025-11-21T13:43:59.658Z",
+    "updated_at": "2025-11-21T13:43:59.658Z"
+  },
+  {
+    "id": 15,
+    "emi_id": 3,
+    "monthly_payment": 921,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 248.7,
+    "created_at": "2025-11-21T13:43:59.764Z",
+    "updated_at": "2025-11-21T13:43:59.764Z"
+  },
+  {
+    "id": 16,
+    "emi_id": 3,
+    "monthly_payment": 691,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 248.7,
+    "created_at": "2025-11-21T13:43:59.831Z",
+    "updated_at": "2025-11-21T13:43:59.831Z"
+  },
+  {
+    "id": 17,
+    "emi_id": 3,
+    "monthly_payment": 500,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 248.7,
+    "created_at": "2025-11-21T13:43:59.917Z",
+    "updated_at": "2025-11-21T13:43:59.917Z"
+  },
+  {
+    "id": 18,
+    "emi_id": 3,
+    "monthly_payment": 384,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 248.7,
+    "created_at": "2025-11-21T13:44:00.004Z",
+    "updated_at": "2025-11-21T13:44:00.004Z"
+  },
+  {
+    "id": 19,
+    "emi_id": 4,
+    "monthly_payment": 4997,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 449.7,
+    "created_at": "2025-11-21T13:44:00.279Z",
+    "updated_at": "2025-11-21T13:44:00.279Z"
+  },
+  {
+    "id": 20,
+    "emi_id": 4,
+    "monthly_payment": 2498,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 449.7,
+    "created_at": "2025-11-21T13:44:00.376Z",
+    "updated_at": "2025-11-21T13:44:00.376Z"
+  },
+  {
+    "id": 21,
+    "emi_id": 4,
+    "monthly_payment": 1666,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 449.7,
+    "created_at": "2025-11-21T13:44:00.514Z",
+    "updated_at": "2025-11-21T13:44:00.514Z"
+  },
+  {
+    "id": 22,
+    "emi_id": 4,
+    "monthly_payment": 1249,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 449.7,
+    "created_at": "2025-11-21T13:44:00.619Z",
+    "updated_at": "2025-11-21T13:44:00.619Z"
+  },
+  {
+    "id": 23,
+    "emi_id": 4,
+    "monthly_payment": 904,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 449.7,
+    "created_at": "2025-11-21T13:44:00.734Z",
+    "updated_at": "2025-11-21T13:44:00.734Z"
+  },
+  {
+    "id": 24,
+    "emi_id": 4,
+    "monthly_payment": 695,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 449.7,
+    "created_at": "2025-11-21T13:44:00.813Z",
+    "updated_at": "2025-11-21T13:44:00.813Z"
+  },
+  {
+    "id": 25,
+    "emi_id": 5,
+    "monthly_payment": 13666,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 1229.97,
+    "created_at": "2025-11-21T13:44:01.056Z",
+    "updated_at": "2025-11-21T13:44:01.056Z"
+  },
+  {
+    "id": 26,
+    "emi_id": 5,
+    "monthly_payment": 6833,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 1229.97,
+    "created_at": "2025-11-21T13:44:01.126Z",
+    "updated_at": "2025-11-21T13:44:01.126Z"
+  },
+  {
+    "id": 27,
+    "emi_id": 5,
+    "monthly_payment": 4555,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 1229.97,
+    "created_at": "2025-11-21T13:44:01.199Z",
+    "updated_at": "2025-11-21T13:44:01.199Z"
+  },
+  {
+    "id": 28,
+    "emi_id": 5,
+    "monthly_payment": 3417,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 1229.97,
+    "created_at": "2025-11-21T13:44:01.321Z",
+    "updated_at": "2025-11-21T13:44:01.321Z"
+  },
+  {
+    "id": 29,
+    "emi_id": 5,
+    "monthly_payment": 2472,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 1229.97,
+    "created_at": "2025-11-21T13:44:01.404Z",
+    "updated_at": "2025-11-21T13:44:01.404Z"
+  },
+  {
+    "id": 30,
+    "emi_id": 5,
+    "monthly_payment": 1901,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 1229.97,
+    "created_at": "2025-11-21T13:44:01.489Z",
+    "updated_at": "2025-11-21T13:44:01.489Z"
+  },
+  {
+    "id": 31,
+    "emi_id": 6,
+    "monthly_payment": 32666,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 2939.97,
+    "created_at": "2025-11-21T13:44:01.804Z",
+    "updated_at": "2025-11-21T13:44:01.804Z"
+  },
+  {
+    "id": 32,
+    "emi_id": 6,
+    "monthly_payment": 16333,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 2939.97,
+    "created_at": "2025-11-21T13:44:01.885Z",
+    "updated_at": "2025-11-21T13:44:01.885Z"
+  },
+  {
+    "id": 33,
+    "emi_id": 6,
+    "monthly_payment": 10889,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 2939.97,
+    "created_at": "2025-11-21T13:44:01.974Z",
+    "updated_at": "2025-11-21T13:44:01.974Z"
+  },
+  {
+    "id": 34,
+    "emi_id": 6,
+    "monthly_payment": 8167,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 2939.97,
+    "created_at": "2025-11-21T13:44:02.083Z",
+    "updated_at": "2025-11-21T13:44:02.083Z"
+  },
+  {
+    "id": 35,
+    "emi_id": 6,
+    "monthly_payment": 5908,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 2939.97,
+    "created_at": "2025-11-21T13:44:02.158Z",
+    "updated_at": "2025-11-21T13:44:02.158Z"
+  },
+  {
+    "id": 36,
+    "emi_id": 6,
+    "monthly_payment": 4545,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 2939.97,
+    "created_at": "2025-11-21T13:44:02.246Z",
+    "updated_at": "2025-11-21T13:44:02.246Z"
+  },
+  {
+    "id": 37,
+    "emi_id": 7,
+    "monthly_payment": 44967,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 4047,
+    "created_at": "2025-11-21T13:44:02.490Z",
+    "updated_at": "2025-11-21T13:44:02.490Z"
+  },
+  {
+    "id": 38,
+    "emi_id": 7,
+    "monthly_payment": 22483,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 4047,
+    "created_at": "2025-11-21T13:44:02.574Z",
+    "updated_at": "2025-11-21T13:44:02.574Z"
+  },
+  {
+    "id": 39,
+    "emi_id": 7,
+    "monthly_payment": 14989,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 4047,
+    "created_at": "2025-11-21T13:44:02.684Z",
+    "updated_at": "2025-11-21T13:44:02.684Z"
+  },
+  {
+    "id": 40,
+    "emi_id": 7,
+    "monthly_payment": 11242,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 4047,
+    "created_at": "2025-11-21T13:44:02.760Z",
+    "updated_at": "2025-11-21T13:44:02.760Z"
+  },
+  {
+    "id": 41,
+    "emi_id": 7,
+    "monthly_payment": 8133,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 4047,
+    "created_at": "2025-11-21T13:44:02.845Z",
+    "updated_at": "2025-11-21T13:44:02.845Z"
+  },
+  {
+    "id": 42,
+    "emi_id": 7,
+    "monthly_payment": 6256,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 4047,
+    "created_at": "2025-11-21T13:44:02.924Z",
+    "updated_at": "2025-11-21T13:44:02.924Z"
+  },
+  {
+    "id": 43,
+    "emi_id": 8,
+    "monthly_payment": 23333,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 2099.97,
+    "created_at": "2025-11-21T13:44:03.280Z",
+    "updated_at": "2025-11-21T13:44:03.280Z"
+  },
+  {
+    "id": 44,
+    "emi_id": 8,
+    "monthly_payment": 11667,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 2099.97,
+    "created_at": "2025-11-21T13:44:03.351Z",
+    "updated_at": "2025-11-21T13:44:03.351Z"
+  },
+  {
+    "id": 45,
+    "emi_id": 8,
+    "monthly_payment": 7778,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 2099.97,
+    "created_at": "2025-11-21T13:44:03.446Z",
+    "updated_at": "2025-11-21T13:44:03.446Z"
+  },
+  {
+    "id": 46,
+    "emi_id": 8,
+    "monthly_payment": 5833,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 2099.97,
+    "created_at": "2025-11-21T13:44:03.522Z",
+    "updated_at": "2025-11-21T13:44:03.522Z"
+  },
+  {
+    "id": 47,
+    "emi_id": 8,
+    "monthly_payment": 4220,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 2099.97,
+    "created_at": "2025-11-21T13:44:03.611Z",
+    "updated_at": "2025-11-21T13:44:03.611Z"
+  },
+  {
+    "id": 48,
+    "emi_id": 8,
+    "monthly_payment": 3246,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 2099.97,
+    "created_at": "2025-11-21T13:44:03.699Z",
+    "updated_at": "2025-11-21T13:44:03.699Z"
+  },
+  {
+    "id": 49,
+    "emi_id": 9,
+    "monthly_payment": 3666,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 329.97,
+    "created_at": "2025-11-21T13:44:03.959Z",
+    "updated_at": "2025-11-21T13:44:03.959Z"
+  },
+  {
+    "id": 50,
+    "emi_id": 9,
+    "monthly_payment": 1833,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 329.97,
+    "created_at": "2025-11-21T13:44:04.058Z",
+    "updated_at": "2025-11-21T13:44:04.058Z"
+  },
+  {
+    "id": 51,
+    "emi_id": 9,
+    "monthly_payment": 1222,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 329.97,
+    "created_at": "2025-11-21T13:44:04.165Z",
+    "updated_at": "2025-11-21T13:44:04.165Z"
+  },
+  {
+    "id": 52,
+    "emi_id": 9,
+    "monthly_payment": 917,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 329.97,
+    "created_at": "2025-11-21T13:44:04.324Z",
+    "updated_at": "2025-11-21T13:44:04.324Z"
+  },
+  {
+    "id": 53,
+    "emi_id": 9,
+    "monthly_payment": 663,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 329.97,
+    "created_at": "2025-11-21T13:44:04.402Z",
+    "updated_at": "2025-11-21T13:44:04.402Z"
+  },
+  {
+    "id": 54,
+    "emi_id": 9,
+    "monthly_payment": 510,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 329.97,
+    "created_at": "2025-11-21T13:44:04.487Z",
+    "updated_at": "2025-11-21T13:44:04.487Z"
+  },
+  {
+    "id": 55,
+    "emi_id": 10,
+    "monthly_payment": 5833,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 524.97,
+    "created_at": "2025-11-21T13:44:04.731Z",
+    "updated_at": "2025-11-21T13:44:04.731Z"
+  },
+  {
+    "id": 56,
+    "emi_id": 10,
+    "monthly_payment": 2917,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 524.97,
+    "created_at": "2025-11-21T13:44:04.804Z",
+    "updated_at": "2025-11-21T13:44:04.804Z"
+  },
+  {
+    "id": 57,
+    "emi_id": 10,
+    "monthly_payment": 1944,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 524.97,
+    "created_at": "2025-11-21T13:44:04.885Z",
+    "updated_at": "2025-11-21T13:44:04.885Z"
+  },
+  {
+    "id": 58,
+    "emi_id": 10,
+    "monthly_payment": 1458,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 524.97,
+    "created_at": "2025-11-21T13:44:04.972Z",
+    "updated_at": "2025-11-21T13:44:04.972Z"
+  },
+  {
+    "id": 59,
+    "emi_id": 10,
+    "monthly_payment": 1055,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 524.97,
+    "created_at": "2025-11-21T13:44:05.059Z",
+    "updated_at": "2025-11-21T13:44:05.059Z"
+  },
+  {
+    "id": 60,
+    "emi_id": 10,
+    "monthly_payment": 812,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 524.97,
+    "created_at": "2025-11-21T13:44:05.166Z",
+    "updated_at": "2025-11-21T13:44:05.166Z"
+  },
+  {
+    "id": 61,
+    "emi_id": 11,
+    "monthly_payment": 30000,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 2699.97,
+    "created_at": "2025-11-21T13:44:05.406Z",
+    "updated_at": "2025-11-21T13:44:05.406Z"
+  },
+  {
+    "id": 62,
+    "emi_id": 11,
+    "monthly_payment": 15000,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 2699.97,
+    "created_at": "2025-11-21T13:44:05.519Z",
+    "updated_at": "2025-11-21T13:44:05.519Z"
+  },
+  {
+    "id": 63,
+    "emi_id": 11,
+    "monthly_payment": 10000,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 2699.97,
+    "created_at": "2025-11-21T13:44:05.604Z",
+    "updated_at": "2025-11-21T13:44:05.604Z"
+  },
+  {
+    "id": 64,
+    "emi_id": 11,
+    "monthly_payment": 7500,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 2699.97,
+    "created_at": "2025-11-21T13:44:05.681Z",
+    "updated_at": "2025-11-21T13:44:05.681Z"
+  },
+  {
+    "id": 65,
+    "emi_id": 11,
+    "monthly_payment": 5426,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 2699.97,
+    "created_at": "2025-11-21T13:44:05.765Z",
+    "updated_at": "2025-11-21T13:44:05.765Z"
+  },
+  {
+    "id": 66,
+    "emi_id": 11,
+    "monthly_payment": 4174,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 2699.97,
+    "created_at": "2025-11-21T13:44:05.915Z",
+    "updated_at": "2025-11-21T13:44:05.915Z"
+  },
+  {
+    "id": 67,
+    "emi_id": 12,
+    "monthly_payment": 16335,
+    "tenure": 3,
+    "interest_rate": 0,
+    "cashback": 1470.18,
+    "created_at": "2025-11-21T13:44:06.171Z",
+    "updated_at": "2025-11-21T13:44:06.171Z"
+  },
+  {
+    "id": 68,
+    "emi_id": 12,
+    "monthly_payment": 8168,
+    "tenure": 6,
+    "interest_rate": 0,
+    "cashback": 1470.18,
+    "created_at": "2025-11-21T13:44:06.260Z",
+    "updated_at": "2025-11-21T13:44:06.260Z"
+  },
+  {
+    "id": 69,
+    "emi_id": 12,
+    "monthly_payment": 5445,
+    "tenure": 9,
+    "interest_rate": 0,
+    "cashback": 1470.18,
+    "created_at": "2025-11-21T13:44:06.345Z",
+    "updated_at": "2025-11-21T13:44:06.345Z"
+  },
+  {
+    "id": 70,
+    "emi_id": 12,
+    "monthly_payment": 4084,
+    "tenure": 12,
+    "interest_rate": 0,
+    "cashback": 1470.18,
+    "created_at": "2025-11-21T13:44:06.448Z",
+    "updated_at": "2025-11-21T13:44:06.448Z"
+  },
+  {
+    "id": 71,
+    "emi_id": 12,
+    "monthly_payment": 2954,
+    "tenure": 18,
+    "interest_rate": 10.5,
+    "cashback": 1470.18,
+    "created_at": "2025-11-21T13:44:06.523Z",
+    "updated_at": "2025-11-21T13:44:06.523Z"
+  },
+  {
+    "id": 72,
+    "emi_id": 12,
+    "monthly_payment": 2273,
+    "tenure": 24,
+    "interest_rate": 10.5,
+    "cashback": 1470.18,
+    "created_at": "2025-11-21T13:44:06.604Z",
+    "updated_at": "2025-11-21T13:44:06.604Z"
+  }
+]

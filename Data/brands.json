@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "brand_name": "Samsung",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "brand_name": "Croma",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 3,
+    "category_id": 1,
+    "brand_name": "Sony",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 4,
+    "category_id": 2,
+    "brand_name": "Apple",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 5,
+    "category_id": 2,
+    "brand_name": "Vivo",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 6,
+    "category_id": 2,
+    "brand_name": "Realme",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 7,
+    "category_id": 3,
+    "brand_name": "Apple",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 8,
+    "category_id": 3,
+    "brand_name": "Dell",
+    "created_at": null,
+    "updated_at": null
+  }
+]

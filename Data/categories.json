@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "category_type": "TV",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 2,
+    "category_type": "Mobile",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 3,
+    "category_type": "Laptop",
+    "created_at": null,
+    "updated_at": null
+  }
+]
