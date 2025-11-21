@@ -6,21 +6,8 @@ require('dotenv').config();
 // Initialize Express app
 const app = express();
 
-// CORS Configuration
-const corsOptions = {
-  origin: [
-    'http://localhost:8000',
-    'http://127.0.0.1:8000',
-    'http://localhost:3000',
-    'http://127.0.0.1:3000',
-    'https://1-fi-frontend-green.vercel.app'
-  ],
-  credentials: true,
-  optionsSuccessStatus: 200
-};
-
-// Middleware
-app.use(cors(corsOptions));
+// CORS Configuration - Allow all origins
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
